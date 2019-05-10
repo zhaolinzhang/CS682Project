@@ -1,0 +1,63 @@
+﻿ClassId,Name
+0,uneven surfaces ahead
+1,speed bump
+2,slippery road
+3,dangerous curve to the left
+4,dangerous curve to the right
+5,"double curves, first to left"
+6,"double curves, first to right and first to left"
+7,children crossing
+8,bicycle crossing
+9,cattle crossing
+10,roadworks
+11,traffic signals
+12,railway crossing with gates
+13,danger point
+14,narrow roadway ahead
+15,road narrows on the left
+16,road narrows on the right
+17,priority to through-traffic at the next intersection/crossroads only
+18,"proceed with extreme caution, priority is not assigned"
+19,yield to cross traffic
+20,"narrow passage, give way to traffic from opposite side"
+21,stop
+22,do not enter
+23,no entry for bicycles
+24,total vehicle weight Limit (3.5 tonnes)
+25,no entry for vehicles used for goods transport
+26,no entry for vehicles which are wider than indicated (2.1m)
+27,no entry for vehicles which are higher than indicated
+28,no vehicles of any kind permitted
+29,no left turn
+30,no right turn
+31,no passing (for any vehicle type)
+32,speed limit 70
+33,part of the road reserved for cyclists and pedestrians
+34,you must go straight ahead
+35,turn right here or turn left here
+36,you must go straight or turn right
+37,roundabout
+38,bicycle lane
+39,"shared, but separated bicycle & pedestrian path"
+40,no parking. waiting is allowed.
+41,absolutely no stopping
+42,no parking allowed on this side of the road from 1st day of the month until the 15th
+43,no parking allowed on this side of the road from the 16th day of the month until the last
+44,priority over oncoming vehicles
+45,parking place
+46,parking place
+47,parking place
+48,parking place
+49,parking place
+50,parking mandatory on pavement or verge
+51,"start of ""woonerf""/""zone résidentielle"" or ""erf""/""zone de rencontre"""
+52,"end of ""woonerf""/""zone résidentielle"" or ""erf""/""zone de rencontre"""
+53,road with one-way traffic
+54,no exit
+55,end of road works
+56,pedestrian crossing
+57,bicycle and moped crossing
+58,parking place
+59,unknown
+60,end of priority road
+61,priority road

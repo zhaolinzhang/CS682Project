@@ -1,0 +1,44 @@
+﻿ClassId,Name
+0,speed limit 20
+1,speed limit 30
+2,speed limit 50
+3,speed limit 60
+4,speed limit 70
+5,speed limit 80
+6,end of speed limit 80
+7,speed limit 100
+8,speed limit 120
+9,no passing (for any vehicle type)
+10,no passing (by vehicles over 3.5 t)
+11,priority to through-traffic at the next intersection/crossroads only
+12,priority road
+13,yield to cross traffic
+14,stop
+15,no vehicles of any kind permitted
+16,no powered car permitted
+17,do not enter
+18,danger point
+19,dangerous curve to the left
+20,dangerous curve to the right
+21,"double curves, first to left"
+22,"uneven surfaces ahead, bumpy road"
+23,"slippery road (water, ice, snow, oil or dirt)"
+24,road narrows on the right
+25,roadworks
+26,traffic signals
+27,pedestrian crossing
+28,children crossing
+29,bicycle lane
+30,snow or ice possible ahead
+31,wild animals possible
+32,end of previous limitation 
+33,you must turn right ahead
+34,you must turn left ahead
+35,you must go straight ahead
+36,you must go straight or turn right
+37,you must go straight or turn left
+38,keep right of traffic barrier/divider
+39,keep left of traffic barrier/divider
+40,roundabout
+41,end of no passing (for any vehicle type)
+42,end of no passing (by vehicles over 3.5t)
